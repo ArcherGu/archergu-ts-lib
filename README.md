@@ -6,6 +6,8 @@
 
 - Search `archergu-ts-lib` and replace it with your package name.
 - Search `ArcherGu` and replace it with your name.
+- After `pnpm install`, please run `npx simple-git-hooks` to install git hooks.
+- If you want to auto publish to npm, please cancel the comment of `release` job in `.github/workflows/ci.yml`.
 
 ## License
 
