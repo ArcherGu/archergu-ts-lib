@@ -1,6 +1,6 @@
 # archergu-ts-lib
 
-[![npm version](https://badgen.net/npm/v/archergu-ts-lib)](https://npm.im/archergu-ts-lib) [![npm downloads](https://badgen.net/npm/dm/archergu-ts-lib)](https://npm.im/archergu-ts-lib)
+[![npm](https://img.shields.io/npm/v/archergu-ts-lib?style=flat-square)](https://npm.im/archergu-ts-lib) [![npm](https://img.shields.io/npm/dw/archergu-ts-lib?style=flat-square)](https://npm.im/archergu-ts-lib) [![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/ArcherGu/archergu-ts-lib/ci.yml?style=flat-square)](https://github.com/ArcherGu/archergu-ts-lib/actions/workflows/ci.yml)
 
 ## Using this template
 
