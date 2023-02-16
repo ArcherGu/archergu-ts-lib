@@ -8,6 +8,11 @@
   "repository": {
     "url": "https://github.com/ArcherGu/archergu-ts-lib.git"
   },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsup",
     "lint": "eslint .",
