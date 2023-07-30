@@ -1,7 +1,7 @@
 {
   "name": "archergu-ts-lib",
   "version": "0.0.0",
-  "packageManager": "pnpm@8.6.10",
+  "packageManager": "pnpm@8.6.11",
   "description": "Archer's typescript library template",
   "author": "ArcherGu",
   "license": "MIT",
