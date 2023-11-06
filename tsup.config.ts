@@ -8,5 +8,5 @@ export default defineConfig({
     entry: 'src/index.ts',
   },
   clean: true,
-  splitting: true
+  splitting: true,
 })
